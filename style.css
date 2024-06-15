@@ -1,0 +1,37 @@
+.entrada{
+    display: inline-flex;
+    padding-top: 10px;
+}
+.title{
+    margin-left: 20px ;
+    margin-top: 20px;
+}
+.n1{
+    margin-left: 20px;
+}
+.n2{
+    margin-left: 20px;
+}
+.n3{
+    margin-left: 20px;
+}
+p{   
+    font-size: x-large;
+}
+.calcular{
+    width: 20px;    
+    margin-left: 110px;
+}
+.media{
+    margin-left: 100px;
+}
+.title{
+    justify-content: center;
+}
+.calculadora{
+    text-align: center;   
+}
+.calculadora>p{
+    margin-top: 100px;
+    font-size: large;
+}
